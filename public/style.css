@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #23252C;
+    color: #DCDCDC;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    font-size: 0.75rem;
+}
+
+h2 {
+    font-size: 1.625rem;
+    margin: 0;
+    line-height: 1;
+}
+
+h3 {
+    font-size: 1rem;
+    margin: 0;
+    line-height: 1;
+}
+
+.card--info--img{
+    width: 320px;
+    height: 320px;
+    object-fit: none;
+    object-position: 60% 20%;
+}
+
+.card--container{
+    margin: 1em auto;
+    width: 320px;
+    border-radius: 10px;
+    background: #1A1B21;
+    overflow: hidden;
+}
+
+.card--info{
+    line-height: 1;
+}
+
+.card--info--name{
+    margin-top: 1.3rem;;
+}
+
+.card--info--title{
+    margin: 0.4rem 0 0;
+}
+
+.card--info--website{
+    margin: 0.5rem 0 1rem;
+}
+
+.card--info--btn{
+    font-size: .8rem;
+    font-weight: 500;
+    text-decoration: none;
+    display: inline-block;
+    width: 115px;
+    height: 34px;
+    border-radius: 6px;
+}
+
+.card--info--btn__primary{
+    color: #000;
+    background: #fff;
+}
+
+.card--info--btn__secondary{
+    color: #fff;
+    background: #5093E2;
+}
+
+.card--info--btn img {
+    display: block;
+    width: 1.1rem;
+}
+
+.card--info--btn span {
+    margin-left: 0.5rem;;
+    display: block;
+}
+
+.btn-content-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 34px;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+}
+
+.card--padding {
+    padding: 0 2.25em;
+}
+
+.card--align-center{
+    text-align: center;
+}
+
+.card--info--title{
+    font-size: .85rem;
+    color: #F3BF99;
+}
+
+.card--interests--title{
+    margin-top: 1.7rem;
+}
+
+.card--interests--body{
+    margin-bottom: 1.5rem;
+}
+
+.card--footer{
+    min-height: 4rem;
+    background: #161619;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card--footer-icon {
+    margin: 0 .75rem;
+}

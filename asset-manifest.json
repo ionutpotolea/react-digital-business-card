@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-digital-business-card/static/js/main.d930c01b.js",
+    "static/media/laura-smith.jpg": "/react-digital-business-card/static/media/laura-smith.dd7b919a58e6e7cf20ff.jpg",
+    "static/media/instagram.svg": "/react-digital-business-card/static/media/instagram.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
+    "static/media/github.svg": "/react-digital-business-card/static/media/github.23d6dfa78140e8017f08351385915806.svg",
+    "static/media/twitter.svg": "/react-digital-business-card/static/media/twitter.3f40423293e1813898c7e26f729a0705.svg",
+    "index.html": "/react-digital-business-card/index.html",
+    "static/media/linkedIn.svg": "/react-digital-business-card/static/media/linkedIn.66f4d9aa9a5c36aef7d8e523e33a6224.svg",
+    "static/media/facebook.svg": "/react-digital-business-card/static/media/facebook.00c353d38f22d18d3ff0962f9ce66f43.svg",
+    "static/media/mail.svg": "/react-digital-business-card/static/media/mail.a1a2a168cf8f66b0e74e63b955f26dcd.svg",
+    "main.d930c01b.js.map": "/react-digital-business-card/static/js/main.d930c01b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d930c01b.js"
+  ]
+}

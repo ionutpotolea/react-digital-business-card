@@ -13,7 +13,7 @@ export default function Info() {
                 <h2 className="card--info--name">Ionut Potolea</h2>
                 <p className="card--info--title">Frontend Developer</p>
                 <p className="card--info--website">
-                    <a href="https://ionutpotolea.github.io/Portfolio/">ionutpotolea.github.io/portfolio</a>
+                    <a href="https://ionutpotolea.github.io/portfolio">ionutpotolea.github.io/portfolio</a>
                 </p>
                 <div className="btns">
                     <a
